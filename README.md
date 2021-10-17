@@ -1,4 +1,4 @@
 # lab5-6
-collaboration repository
+collaboration repository for Daniel Sawyer and
 
 This repository contains a python program that prompts the user for two names as input. The program then...
