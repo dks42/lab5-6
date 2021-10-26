@@ -1,0 +1,8 @@
+We chose the license becuase it allows for plenty of freedom. As stated, anyone may
+"use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software." For our very simple program, giving as many options to other programmers
+will help bulid it into something more exciting
+
+We chose the code of conduct because of the freedom given in the license. There must be
+leaders in the project that will prevent any hatred or toxicity. It mostly outlines
+how we expect members to act in the project.
